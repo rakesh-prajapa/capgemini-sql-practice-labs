@@ -56,7 +56,7 @@ UPDATE employee SET salary = salary - 21000 WHERE name = 'john';
 Clone the repository:
 
 Bash
-git clone [https://github.com/username/capgemini-sql-practice-labs.git](https://github.com/username/capgemini-sql-practice-labs.git)
+git repository  - https://github.com/rakesh-prajapa/capgemini-sql-practice-labs.git
 Import the schema and execute queries in your MySQL / relational database management environment.
 
 👤 Connect With Me
